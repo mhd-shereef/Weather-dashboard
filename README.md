@@ -87,5 +87,5 @@ This project is shared as a template so that:
 Your API key is never exposed 🔐
 Anyone can reuse the dashboard logic
 The same structure works for different users
-
-Dashboard Preview: (weatherdashboard.png)
+###### Weather API : www.weatherapi.com
+###### Dashboard Preview: ![Weather Dasboard](weatherdashboard.png)
