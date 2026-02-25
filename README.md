@@ -1,9 +1,13 @@
-#🌦️ Weather Dashboard (API-Based | Power BI)
+# 🌦️ Weather Dashboard (API-Based | Power BI)
 
 Welcome! 👋
 This dashboard shows you live weather data pulled directly from a weather API and visualized in Power BI.
+
 You’re not looking at static files here — every refresh fetches fresh data from the internet.
-This repo is meant to help you understand how API data flows into Power BI, how it’s transformed, and how insights are calculated and displayed.
+
+This repo is meant to help you understand how API data flows into Power BI, how it’s transformed, and how insights are 
+
+calculated and displayed.
 
 🔍 What You’ll Get From This Dashboard
 
@@ -84,4 +88,4 @@ Your API key is never exposed 🔐
 Anyone can reuse the dashboard logic
 The same structure works for different users
 
-Project Demo : https://github.com/mhd-shereef/Weather-dashboard/blob/main/weatherdashboard.png
+Dashboard Preview: https://github.com/mhd-shereef/Weather-dashboard/blob/main/weatherdashboard.png
