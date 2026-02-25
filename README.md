@@ -88,4 +88,4 @@ Your API key is never exposed 🔐
 Anyone can reuse the dashboard logic
 The same structure works for different users
 
-Dashboard Preview: https://github.com/mhd-shereef/Weather-dashboard/blob/main/weatherdashboard.png
+Dashboard Preview: (https://github.com/mhd-shereef/Weather-dashboard/blob/main/weatherdashboard.png)
